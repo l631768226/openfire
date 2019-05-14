@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>com.ly.sessionmg.SessionMgPlugin</class>
+    <name>SessionManager</name>
+    <description>to manage sessions</description>
+    <author>Ly</author>
+    <version>0.0.2</version>
+    <date>18/05/2018</date>
+    <minServerVersion>4.1.0</minServerVersion>
+
+</plugin>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>com.ly.sessioncheck.SessionCheckPlugin</class>
+    <name>SessionCheck</name>
+    <description>to check sessions</description>
+    <author>Ly</author>
+    <version>0.0.1</version>
+    <date>20/05/2018</date>
+    <minServerVersion>4.1.0</minServerVersion>
+
+</plugin>

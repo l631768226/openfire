@@ -1,0 +1,3 @@
+com\ly\sessioncheck\SessionCheckPlugin.class
+com\ly\sessioncheck\tools\FBase64.class
+com\ly\sessioncheck\SessionCheckServlet.class
